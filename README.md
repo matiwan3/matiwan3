@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matiwan3
 - 👀 I’m interested in Back-end developing
-- 🌱 I’m currently learning Python with machine learning 
+- 🌱 I’m currently learning Python C++ and algorithms 
 - 📫 How to reach me mateusz.wandzlewicz@gmail.com
 
 <!---
