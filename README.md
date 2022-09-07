@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matiwan3
-- 🤖 I’m interested in web applications, cybersecurity, networks, scripts and machine learning  
+- 🤖 I’m interested in web applications, cybersecurity, networks, scripts, machine learning and data science  
 - 💡 Everyday I’m creating new projects which helps me to develop in many different fields of programming
 - ⚡ I’m a very fast learning person eager for discovering newer and newer things ⚡
 - 📫 How to reach me? Contact: mateusz.wandzlewicz@gmail.com
