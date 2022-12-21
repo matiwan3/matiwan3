@@ -10,3 +10,6 @@
 matiwan3/matiwan3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Eat my contributions
+![snake gif](https://github.com/matiwan3/matiwan3/blob/output/github-contribution-grid-snake.gif)
