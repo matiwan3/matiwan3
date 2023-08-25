@@ -1,4 +1,6 @@
-
+<b> Data visualization of my github profile </b>
+![](./profile-3d-contrib/profile-green-animate.svg)
+<br>
 <h1 align="center", font-size="bold">
 🧩 Little binary quiz 🧩
 </h1>
