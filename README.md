@@ -1,7 +1,8 @@
 <h1 align="center", font-size="bold">
 <b> Data visualization of my github profile </b>
-![](./profile-3d-contrib/profile-green-animate.svg)
 </h1>
+<p align="center", font-size="bold"> ![](./profile-3d-contrib/profile-green-animate.svg)</p>
+
 
 <h1 align="center", font-size="bold">
 🧩 Little binary quiz 🧩
