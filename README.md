@@ -3,7 +3,7 @@
 Welcome all :D
 </h1>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 <h1 align="center", font-size="bold">
 🧩 Little binary quiz 🧩
 </h1>
