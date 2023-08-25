@@ -1,8 +1,8 @@
 <h1 align="center", font-size="bold">
 <b> Data visualization of my github profile </b>
-</h1>
 ![](./profile-3d-contrib/profile-green-animate.svg)
-<br>
+</h1>
+
 <h1 align="center", font-size="bold">
 🧩 Little binary quiz 🧩
 </h1>
