@@ -4,6 +4,14 @@ Welcome to my github profile 👾
 </h1>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
+<h2 align="center"> <b> Contributions stats </b> </h2>
+<p align="center">
+
+   <a href="https://git.io/streak-stats">
+      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=matiwan3&theme=gruvbox&hide_border=true">
+   </a>
+</p>
+
 <h1 align="center", font-size="bold">
 🧩 Little binary quiz 🧩
 </h1>
