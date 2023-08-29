@@ -15,7 +15,8 @@ Welcome to my github profile 👾
 <h2 align="center"> <b> Projects 🔧</b> </h2>
 <ul>
 <li><a href="https://github.com/matiwan3/autogit-streak"> Auto git-contribute </li>
- 
+ <li><a href="https://github.com/matiwan3/local_projects-HTML-CSS-JAVASCRIPT"> JavaScript repo with projects </li>
+
 </ul>
 
 <h1 align="center", font-size="bold">
