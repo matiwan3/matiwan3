@@ -15,8 +15,9 @@ Welcome to my github profile 👾
 <ul>
 <li><a href="https://github.com/matiwan3/autogit-streak"> Daily automated github contributions </li>
 <li><a href="https://github.com/matiwan3/local_projects-HTML-CSS-JAVASCRIPT"> JavaScript repo with projects </li>
-<li><a href="https://github.com/matiwan3/AutoMarket"> AutoMarket - group project </li>
+<li><a href="https://github.com/matiwan3/AutoMarket"> AutoMarket - group project (Currently abandoned) </li>
 <li><a href="https://github.com/matiwan3/Instagram-Followers-Follower"> Instagram-Followers-Follower - project for tracking instagram followers changes </li>
+<li><a href="https://github.com/matiwan3/LEDisplay"> Rasberry pi + LED display + python </li>
 </ul>
 
 <h1 align="center", font-size="bold">
