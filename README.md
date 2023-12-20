@@ -18,6 +18,7 @@ Welcome to my github profile 👾
 <li><a href="https://github.com/matiwan3/AutoMarket"> AutoMarket - group project (Currently abandoned) </li>
 <li><a href="https://github.com/matiwan3/Instagram-Followers-Follower"> Instagram-Followers-Follower - project for tracking instagram followers changes </li>
 <li><a href="https://github.com/matiwan3/LEDisplay"> Rasberry pi + LED display + python </li>
+<li><a href="https://github.com/matiwan3/Jarvis-prototype")>Jarvis prototype - AI assistant</li>
 </ul>
 
 <h1 align="center", font-size="bold">
