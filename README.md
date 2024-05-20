@@ -8,7 +8,7 @@ This curiosity drives me to constantly explore and understand how things work. I
 <br><br> 
 
 
-<h2 align="center"> <b> Projects 🔧</b> </h2>
+<h2 align="center"> <b> Projects and ongoing work🔧 </b> </h2>
 <ul>
 <li><a href="https://github.com/matiwan3/autogit-streak"> Daily automated github contributions </li>
 <li><a href="https://github.com/matiwan3/local_projects-HTML-CSS-JAVASCRIPT"> JavaScript repo with projects </li>
