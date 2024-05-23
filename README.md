@@ -1,4 +1,4 @@
- <h1 align="center"> <b>Hello there! </b> </h1>
+# Hello there!
 My name is Matheus (Mateusz in Polish), but you can call me whatever you like — I enjoy coming up with nicknames 😎. I have been fascinated by technology since I was a child, when it seemed like a magical mystery to me 🔮. A few years ago, I discovered Python and other programming languages, which opened my eyes to the power and capabilities of programming. I fell in love with automation, as it allowed me to streamline simple daily tasks and save a lot of time.
 What I truly enjoy about programming is the limitless potential for creating and developing my own tools, as well as the opportunity to collaborate, share knowledge, and work on exciting projects with other enthusiasts. 
 
@@ -8,7 +8,7 @@ This curiosity drives me to constantly explore and understand how things work. I
 <br><br> 
 
 
-<h2 align="center"> <b> Projects and ongoing work </b> </h2>
+## Projects and ongoing work
 <ul>
 <li><a href="https://github.com/matiwan3/project-scripts-and-scrappers/tree/main/john%20talks")>JohnTalks - speach recognition project</li>
 <li><a href="https://github.com/matiwan3/LEDisplay"> Rasberry Pi + LED display + python </li>
@@ -17,7 +17,7 @@ This curiosity drives me to constantly explore and understand how things work. I
 <li><a href="https://github.com/matiwan3/Instagram-Followers-Follower"> Instagram-Followers-Follower - project for tracking instagram followers changes </li>
 </ul>
  
-<h2 align="center"> <b> Contributions section 📅</b> </h2>
+## Contributions section 📅
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
@@ -29,13 +29,5 @@ This curiosity drives me to constantly explore and understand how things work. I
    </a>
 </p>
 
-<h2 align="center", font-size="bold">
-🧩 Hope you like zeros and ones 🧩
-</h2>
+## Hope you like zeros and ones  
 00111001 00100000 01101111 01110101 01110100 00100000 01101111 01100110 00100000 00110001 00110000 00100000 01110000 01100101 01101111 01110000 01101100 01100101 00100000 01110100 01110010 01100001 01101110 01110011 01101100 01100001 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110100 01100101 01111000 01110100 00100000 01110101 01110011 01101001 01101110 01100111 00100000 01100001 00100000 01100011 01101111 01101110 01110110 01100101 01110010 01110100 01100101 01110010 00101110 00100000 01001001 00100000 01101000 01101111 01110000 01100101 00100000 01111001 01101111 01110101 00100000 01100001 01110010 01100101 00100000 01110100 01101000 01100001 01110100 00100000 00110001 00100000 01101111 01110101 01110100 00100000 01101111 01100110 00100000 00110001 00110000
-
-
-<!---
-matiwan3/matiwan3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
