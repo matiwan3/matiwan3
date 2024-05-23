@@ -10,9 +10,9 @@ This curiosity drives me to constantly explore and understand how things work. I
 
 <h2 align="center"> <b> Projects and ongoing work </b> </h2>
 <ul>
-<li><a href="https://github.com/matiwan3/project-scripts-and-scrappers/tree/main/john%20talks")>John assistant - speach recognition</li>
-<li><a href="https://github.com/matiwan3/LEDisplay"> Rasberry pi + LED display + python </li>
-<li><a href="https://github.com/matiwan3/autogit-streak"> Daily automated github contributions </li>
+<li><a href="https://github.com/matiwan3/project-scripts-and-scrappers/tree/main/john%20talks")>JohnTalks - speach recognition project</li>
+<li><a href="https://github.com/matiwan3/LEDisplay"> Rasberry Pi + LED display + python </li>
+<li><a href="https://github.com/matiwan3/autogit-streak"> Automated github contributions </li>
 <li><a href="https://github.com/matiwan3/local_projects-HTML-CSS-JAVASCRIPT"> JavaScript repo with projects </li>
 <li><a href="https://github.com/matiwan3/Instagram-Followers-Follower"> Instagram-Followers-Follower - project for tracking instagram followers changes </li>
 </ul>
