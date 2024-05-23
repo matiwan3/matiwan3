@@ -6,8 +6,6 @@ What I truly enjoy about programming is the limitless potential for creating and
 It's fascinating to think that I'm currently typing on a keyboard — a piece of plastic powered by electricity  —  to write this description. The world around me is full of undiscovered wonders, and there's always something new to learn.
 This curiosity drives me to constantly explore and understand how things work. I believe this ability to see the bigger picture and dive deep into learning is incredibly valuable. I'm eager to continue discovering and understanding new concepts, not just memorizing information but truly grasping the underlying principles to become better version of myself everyday on...
 <br><br> 
-
-
 ## Projects and ongoing work
 <ul>
 <li><a href="https://github.com/matiwan3/project-scripts-and-scrappers/tree/main/john%20talks")>JohnTalks - speach recognition project</li>
@@ -16,7 +14,8 @@ This curiosity drives me to constantly explore and understand how things work. I
 <li><a href="https://github.com/matiwan3/local_projects-HTML-CSS-JAVASCRIPT"> JavaScript repo with projects </li>
 <li><a href="https://github.com/matiwan3/Instagram-Followers-Follower"> Instagram-Followers-Follower - project for tracking instagram followers changes </li>
 </ul>
- 
+<br> 
+
 ## Contributions section 📅
 
 ![](./profile-3d-contrib/profile-night-green.svg)
@@ -28,6 +27,7 @@ This curiosity drives me to constantly explore and understand how things work. I
 
    </a>
 </p>
+<br> 
 
 ## Hope you like zeros and ones  
 00111001 00100000 01101111 01110101 01110100 00100000 01101111 01100110 00100000 00110001 00110000 00100000 01110000 01100101 01101111 01110000 01101100 01100101 00100000 01110100 01110010 01100001 01101110 01110011 01101100 01100001 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110100 01100101 01111000 01110100 00100000 01110101 01110011 01101001 01101110 01100111 00100000 01100001 00100000 01100011 01101111 01101110 01110110 01100101 01110010 01110100 01100101 01110010 00101110 00100000 01001001 00100000 01101000 01101111 01110000 01100101 00100000 01111001 01101111 01110101 00100000 01100001 01110010 01100101 00100000 01110100 01101000 01100001 01110100 00100000 00110001 00100000 01101111 01110101 01110100 00100000 01101111 01100110 00100000 00110001 00110000
