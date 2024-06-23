@@ -24,6 +24,8 @@ This curiosity drives me to constantly explore and understand how things work. I
 ## Projects and ongoing work
 <ul>
 <li><a href="https://github.com/matiwan3/learning-testing")>⚠️ Huge testing repository ⚠️</li>
+<li><a href="https://github.com/matiwan3/project-shark-roulette")> Backend (Server side) + Front end (Client side) app 🚀 </li>
+   
 <li><a href="https://github.com/matiwan3/project-scripts-and-scrappers/tree/main/john%20talks")>JohnTalks - speach recognition project</li>
 <li><a href="https://github.com/matiwan3/LEDisplay"> Rasberry Pi + LED display + python </li>
 <li><a href="https://github.com/matiwan3/autogit-streak"> Automated github contributions </li>
