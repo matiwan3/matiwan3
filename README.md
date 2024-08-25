@@ -1,12 +1,8 @@
 # Hello there!
 **About me**  
-My name is Matheus (Mateusz in Polish), but you can call me whatever you like — I enjoy coming up with nicknames 😎. I have been fascinated by technology since I was a child, when it seemed like a magical mystery to me 🔮. A few years ago, I discovered Python and other programming languages, which opened my eyes to the power and capabilities of programming. I fell in love with automation, as it allowed me to streamline simple daily tasks and save a lot of time.
-What I truly enjoy about programming is the limitless potential for creating and developing my own tools, as well as the opportunity to collaborate, share knowledge, and work on exciting projects with other enthusiasts. 
+I have a solid technical background and an analytical mindset that enable me to excel in Test Automation and QA. As a reliable and responsible professional, I always prioritize the client’s needs. I thrive on working on large-scale projects and aim to grow into a leadership role within the QA field. My approach is to keep things simple and efficient, always focusing on achieving the best results.
 
-**Additional thought**  
-It's fascinating to think that I'm currently typing on a keyboard — a piece of plastic powered by electricity  —  to write this description. The world around me is full of undiscovered wonders, and there's always something new to learn.
-This curiosity drives me to constantly explore and understand how things work. I believe this ability to see the bigger picture and dive deep into learning is incredibly valuable. I'm eager to continue discovering and understanding new concepts, not just memorizing information but truly grasping the underlying principles to become better version of myself everyday on...
-<br>
+I am passionate about automation and robotics, and I have a knack for solving clients’ problems by automating processes and making their lives easier. 💡
 
 ## Personal overview based on Gallup & CliftonStrengths
 1.  Activator ✅
