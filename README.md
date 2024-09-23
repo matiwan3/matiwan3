@@ -17,14 +17,14 @@ I am passionate about automation and robotics, and I have a knack for solving cl
 > _People exceptionally talented in the Restorative theme are adept at dealing with problems. They are good at figuring out what is wrong and resolving it._
 <br>
 
-## Projects and ongoing work
+## Ongoing **projects**
 <ul>
 <li><a href="https://github.com/matiwan3/learning-testing")>⚠️ Huge testing repository ⚠️</li>
-<li><a href="https://github.com/matiwan3/project-shark-roulette")> Backend (Server side) + Front end (Client side) app 🚀 </li>
-   
-<li><a href="https://github.com/matiwan3/project-scripts-and-scrappers/tree/main/john%20talks")>JohnTalks - speach recognition project</li>
-<li><a href="https://github.com/matiwan3/LEDisplay"> Rasberry Pi + LED display + python </li>
-<li><a href="https://github.com/matiwan3/autogit-streak"> Automated github contributions </li>
+<li><a href="https://github.com/matiwan3/project-shark-roulette")>🚀 Backend (Server side) + Front end (Client side) app 🚀</li>
+<li><a href="https://github.com/matiwan3/project-local-network-chat")>👨🏾‍💻 Local network chat app 👨🏾‍💻</li>
+<li><a href="https://github.com/matiwan3/project-scripts-and-scrappers/tree/main/john%20talks")>🗣️ JohnTalks - speach recognition project 🗣️</li>
+<li><a href="https://github.com/matiwan3/LEDisplay">💡Rasberry Pi + LED display + python 💡</li>
+<li><a href="https://github.com/matiwan3/autogit-streak">✅ Automated github contributions ✅</li>
 </ul>
 <br> 
 
