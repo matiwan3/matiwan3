@@ -19,6 +19,8 @@ I am passionate about automation and robotics, and I have a knack for solving cl
 
 ## Ongoing **projects**
 <ul>
+   
+<li><a href="https://github.com/matiwan3/project-LNP")>🛜 Local Network Performance 🛜</li>
 <li><a href="https://github.com/matiwan3/learning-testing")>⚠️ Huge testing repository ⚠️</li>
 <li><a href="https://github.com/matiwan3/project-shark-roulette")>🚀 Backend (Server side) + Front end (Client side) app 🚀</li>
 <li><a href="https://github.com/matiwan3/project-local-network-chat")>👨🏾‍💻 Local network chat app 👨🏾‍💻</li>
