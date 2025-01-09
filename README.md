@@ -34,11 +34,5 @@ I am passionate about automation and robotics, and I have a knack for solving cl
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
-*Do you see that green carpet in the photo above? This was achieved thanks to <a href="https://github.com/matiwan3/autogit-streak"> this script </li>
-<p align="center">
-   <a href="https://git.io/streak-stats">
-      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=matiwan3&theme=gruvbox&hide_border=true">
-
-   </a>
-</p>
+Streak script <a href="https://github.com/matiwan3/autogit-streak"> here </li>
 <br> 
