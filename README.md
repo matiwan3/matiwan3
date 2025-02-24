@@ -13,7 +13,7 @@ Just building amazing things from scratch
 </ul>
 <br> 
 
-## Contributions section 📅
+## Contributions 😴
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
