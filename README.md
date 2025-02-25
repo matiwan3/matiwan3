@@ -2,7 +2,7 @@ Just building amazing things from scratch
 
 ## **Pr0ject5**
 <ul>
-<li><a href="https://github.com/matiwan3/day-trading-bot")>💵CRYPTO TRADING BOT💵</li>
+<li><a href="https://github.com/matiwan3/day-trading-bot")>💵CRYPTO BOT + AI💵</li>
 <li><a href="https://github.com/matiwan3/project-LNP")>🛜Local Network Performance Logger🛜</li>
 <li><a href="https://github.com/matiwan3/learning-testing")>🛠️Testing Repository🛠️</li>
 <li><a href="https://github.com/matiwan3/project-shark-roulette")>💸Gambling - Roulette (Full stack)💸</li>
