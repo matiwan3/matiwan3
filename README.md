@@ -12,10 +12,3 @@ Just building amazing things from scratch
 <li><a href="https://github.com/matiwan3/autogit-streak">✅Automated Github Contributions Streak (AWS lambda)</li>
 </ul>
 <br> 
-
-## Contributions 😴
-
-![](./profile-3d-contrib/profile-night-green.svg)
-
-Streak script <a href="https://github.com/matiwan3/autogit-streak"> here </li>
-<br> 
